@@ -9,6 +9,7 @@ body {
   height: 100%;
   overscroll-behavior: contain;
   background-color: #242424;
+  overflow: hidden;
 }
 
 .hide-scrollbar::-webkit-scrollbar {
